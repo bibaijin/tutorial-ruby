@@ -1,0 +1,33 @@
+site_name: 张 凯
+site_url: https://bibaijin.github.io/homepage
+site_description: 张凯的主页
+site_author: bibaijin
+
+repo_url: https://github.com/bibaijin/homepage
+
+theme: mkdocs
+theme_dir: 'custom_theme'
+
+pages:
+- 主页: index.md
+- 技术:
+    - Haskell: technology/haskell.md
+    - LaTeX: technology/LaTeX.md
+    - Python: technology/python.md
+    - Django: technology/django.md
+    - matplotlib: technology/matplotlib.md
+    - MkDocs: technology/mkdocs.md
+    - Shell: technology/shell.md
+    - Linux: technology/linux.md
+    - PostgreSQL: technology/postgresql.md
+    - Git: technology/git.md
+- 人文:
+    - 西方伦理学史: humanity/西方伦理学史.md
+- 关于: about.md
+
+markdown_extensions:
+    - smarty
+    - sane_lists
+    - footnotes
+
+copyright: Copyright &copy; 2015 <a href="mailto:bibaijin@gmail.com">张 凯</a>.<div align='center'><a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTM3MDg1MA==' border='0' alt='Visitor Counter'></a><BR><a href='http://www.hit-counts.com'>Visitor Counter</a></div>

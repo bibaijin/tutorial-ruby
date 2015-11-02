@@ -3,7 +3,23 @@
 
     
     <url>
-     <loc>https://bibaijin.github.io/homepage/</loc>
+     <loc>https://bibaijin.github.io/tutorial/</loc>
+     <lastmod>2015-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://bibaijin.github.io/tutorial/haskell/</loc>
+     <lastmod>2015-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://bibaijin.github.io/tutorial/LaTeX/</loc>
      <lastmod>2015-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -12,61 +28,25 @@
     
         
     <url>
-     <loc>https://bibaijin.github.io/homepage/technology/haskell/</loc>
+     <loc>https://bibaijin.github.io/tutorial/python/built-in/</loc>
      <lastmod>2015-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://bibaijin.github.io/homepage/technology/LaTeX/</loc>
+     <loc>https://bibaijin.github.io/tutorial/python/django/</loc>
      <lastmod>2015-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://bibaijin.github.io/homepage/technology/python/</loc>
+     <loc>https://bibaijin.github.io/tutorial/python/matplotlib/</loc>
      <lastmod>2015-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://bibaijin.github.io/homepage/technology/django/</loc>
-     <lastmod>2015-11-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://bibaijin.github.io/homepage/technology/matplotlib/</loc>
-     <lastmod>2015-11-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://bibaijin.github.io/homepage/technology/mkdocs/</loc>
-     <lastmod>2015-11-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://bibaijin.github.io/homepage/technology/shell/</loc>
-     <lastmod>2015-11-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://bibaijin.github.io/homepage/technology/linux/</loc>
-     <lastmod>2015-11-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://bibaijin.github.io/homepage/technology/postgresql/</loc>
-     <lastmod>2015-11-02</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://bibaijin.github.io/homepage/technology/git/</loc>
+     <loc>https://bibaijin.github.io/tutorial/python/mkdocs/</loc>
      <lastmod>2015-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -76,7 +56,13 @@
     
         
     <url>
-     <loc>https://bibaijin.github.io/homepage/humanity/西方伦理学史/</loc>
+     <loc>https://bibaijin.github.io/tutorial/linux/os/</loc>
+     <lastmod>2015-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>https://bibaijin.github.io/tutorial/linux/shell/</loc>
      <lastmod>2015-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -85,7 +71,23 @@
 
     
     <url>
-     <loc>https://bibaijin.github.io/homepage/about/</loc>
+     <loc>https://bibaijin.github.io/tutorial/postgresql/</loc>
+     <lastmod>2015-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://bibaijin.github.io/tutorial/git/</loc>
+     <lastmod>2015-11-02</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>https://bibaijin.github.io/tutorial/about/</loc>
      <lastmod>2015-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>

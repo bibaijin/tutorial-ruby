@@ -1,0 +1,274 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "\u4e2a\u4eba\u4e3b\u9875\n\n\n\u9879\u76ee\u7b80\u4ecb\n\n\n\n\n\u5bf9\u4e8e\u77e5\u4e4e\u7684\u722c\u866b\n\n\n\u5229\u7528 Python \u7684 scrapy \u6846\u67b6\u5bf9\u77e5\u4e4e\u8fdb\u884c\u722c\u866b\uff0c\u4ece\u4e2d\u63d0\u53d6\u51fa\u6bcf\u4e2a\u95ee\u9898\u4e0b\u7684\u53c2\u4e0e\u8005\u4eec\uff0c\u7528\u4e8e\n\n\u793e\u533a\u53d1\u73b0\n\u3002\n\n\n\u4e00\u4e2a\u6302\u53f7\u63a8\u8350\u7cfb\u7edf\n\n\n\u5229\u7528 Python \u7684 django \u6846\u67b6\u5199\u4e86\u4e00\u4e2a\u7b80\u5355\u7684\u6302\u53f7\u63a8\u8350\u7cfb\u7edf\u7684\u524d\u7aef\u3002\u5b9e\u73b0\u4e86\u641c\u7d22\u6570\u636e\u5e93\u7684\n\u529f\u80fd\u3002\n\n\n\n\n\n\nvar sc_project=10682708; \nvar sc_invisible=0; \nvar sc_security=\"dcb906c5\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");",
+            "title": "\u4e3b\u9875"
+        },
+        {
+            "location": "/#_1",
+            "text": "\u9879\u76ee\u7b80\u4ecb",
+            "title": "\u4e2a\u4eba\u4e3b\u9875"
+        },
+        {
+            "location": "/#_2",
+            "text": "\u5229\u7528 Python \u7684 scrapy \u6846\u67b6\u5bf9\u77e5\u4e4e\u8fdb\u884c\u722c\u866b\uff0c\u4ece\u4e2d\u63d0\u53d6\u51fa\u6bcf\u4e2a\u95ee\u9898\u4e0b\u7684\u53c2\u4e0e\u8005\u4eec\uff0c\u7528\u4e8e \u793e\u533a\u53d1\u73b0 \u3002",
+            "title": "\u5bf9\u4e8e\u77e5\u4e4e\u7684\u722c\u866b"
+        },
+        {
+            "location": "/#_3",
+            "text": "\u5229\u7528 Python \u7684 django \u6846\u67b6\u5199\u4e86\u4e00\u4e2a\u7b80\u5355\u7684\u6302\u53f7\u63a8\u8350\u7cfb\u7edf\u7684\u524d\u7aef\u3002\u5b9e\u73b0\u4e86\u641c\u7d22\u6570\u636e\u5e93\u7684\n\u529f\u80fd\u3002   \nvar sc_project=10682708; \nvar sc_invisible=0; \nvar sc_security=\"dcb906c5\"; \nvar scJsHost = ((\"https:\" == document.location.protocol) ?\n\"https://secure.\" : \"http://www.\");\ndocument.write(\"<sc\"+\"ript type='text/javascript' src='\" +\nscJsHost+\n\"statcounter.com/counter/counter.js'></\"+\"script>\");",
+            "title": "\u4e00\u4e2a\u6302\u53f7\u63a8\u8350\u7cfb\u7edf"
+        },
+        {
+            "location": "/technology/haskell/",
+            "text": "Haskell\n\n\n\u51fd\u6570\u5f0f\u7f16\u7a0b\n\n\n\n\n\u914d\u7f6e\n\n\n\u5b89\u88c5\uff08Arch Linux\uff09\n\n\nsudo pacman -Syu # \u66f4\u65b0\u7cfb\u7edf\nsudo pacman -S ghc # \u7f16\u8bd1\u5668\nsudo pacman -S cabal-install # \u5305\u7ba1\u7406\nsudo pacman -S haddock # \u6587\u6863\u751f\u6210\nsudo pacman -S happy # Parser generator\nsudo pacman -S alex # Lexical analyzer generator\n\n\n\n\n\u7f16\u8f91\u5668\u652f\u6301\uff08Vim\uff09\n\n\nPlugin 'lukerandall/haskellmode-vim'\n\n\n\n\n\u8bfb\u4e66\u7b14\u8bb0\n\n\nLearn You a Haskell for Great Good!\n\n\nReal World Haskell\n\n\nYesod Web Framework Book",
+            "title": "Haskell"
+        },
+        {
+            "location": "/technology/haskell/#haskell",
+            "text": "\u51fd\u6570\u5f0f\u7f16\u7a0b",
+            "title": "Haskell"
+        },
+        {
+            "location": "/technology/haskell/#_1",
+            "text": "\u5b89\u88c5\uff08Arch Linux\uff09  sudo pacman -Syu # \u66f4\u65b0\u7cfb\u7edf\nsudo pacman -S ghc # \u7f16\u8bd1\u5668\nsudo pacman -S cabal-install # \u5305\u7ba1\u7406\nsudo pacman -S haddock # \u6587\u6863\u751f\u6210\nsudo pacman -S happy # Parser generator\nsudo pacman -S alex # Lexical analyzer generator  \u7f16\u8f91\u5668\u652f\u6301\uff08Vim\uff09  Plugin 'lukerandall/haskellmode-vim'",
+            "title": "\u914d\u7f6e"
+        },
+        {
+            "location": "/technology/haskell/#_2",
+            "text": "Learn You a Haskell for Great Good!  Real World Haskell  Yesod Web Framework Book",
+            "title": "\u8bfb\u4e66\u7b14\u8bb0"
+        },
+        {
+            "location": "/technology/LaTeX/",
+            "text": "LaTeX\n\n\n\u6392\u7248\u8f6f\u4ef6\n\n\n\n\n\u914d\u7f6e\n\n\n\u5b89\u88c5\uff08Arch Linux\uff09\n\n\nsudo pacman -S texlive-langchinese # \u6838\u5fc3\u5305\n\n\n\n\n\u4e2d\u6587\u73af\u5883\n\n\n\u5b8f\u5305\n\n\nmoderncv\n\n\nmoderncvtimeline",
+            "title": "LaTeX"
+        },
+        {
+            "location": "/technology/LaTeX/#latex",
+            "text": "\u6392\u7248\u8f6f\u4ef6",
+            "title": "LaTeX"
+        },
+        {
+            "location": "/technology/LaTeX/#_1",
+            "text": "\u5b89\u88c5\uff08Arch Linux\uff09  sudo pacman -S texlive-langchinese # \u6838\u5fc3\u5305  \u4e2d\u6587\u73af\u5883  \u5b8f\u5305  moderncv  moderncvtimeline",
+            "title": "\u914d\u7f6e"
+        },
+        {
+            "location": "/technology/python/",
+            "text": "Python\n\n\n\u8bed\u8a00\n\n\n\n\n\u5b89\u88c5\n\n\n\u914d\u7f6e\n\n\n\u5f00\u53d1\u73af\u5883\n\n\nVim\n\n\nvirtualenv\n\n\n\u5185\u5efa\u51fd\u6570\n\n\nprint(\"Hello {}\".format(\"world\"))\n\n\n\n\n\u5e93\n\n\nmath\n\n\nmath.pi\n\n: \\(\\pi\\)",
+            "title": "Python"
+        },
+        {
+            "location": "/technology/python/#python",
+            "text": "\u8bed\u8a00",
+            "title": "Python"
+        },
+        {
+            "location": "/technology/python/#_1",
+            "text": "",
+            "title": "\u5b89\u88c5"
+        },
+        {
+            "location": "/technology/python/#_2",
+            "text": "\u5f00\u53d1\u73af\u5883  Vim  virtualenv",
+            "title": "\u914d\u7f6e"
+        },
+        {
+            "location": "/technology/python/#_4",
+            "text": "print(\"Hello {}\".format(\"world\"))",
+            "title": "\u5185\u5efa\u51fd\u6570"
+        },
+        {
+            "location": "/technology/python/#_5",
+            "text": "math  math.pi \n: \\(\\pi\\)",
+            "title": "\u5e93"
+        },
+        {
+            "location": "/technology/django/",
+            "text": "Django\n\n\nPython \u7684\u91cd\u91cf\u7ea7 MVC \u6846\u67b6\n\n\n\n\n\u5b89\u88c5\n\n\npip install django\nsudo pacman -S python-psycopg2  # PostgreSQL interface\n\n\n\n\n\u8fd0\u884c\n\n\ncd $project\npython manage.py migrate    # create table\npython manage.py runserver",
+            "title": "Django"
+        },
+        {
+            "location": "/technology/django/#django",
+            "text": "Python \u7684\u91cd\u91cf\u7ea7 MVC \u6846\u67b6",
+            "title": "Django"
+        },
+        {
+            "location": "/technology/django/#_1",
+            "text": "pip install django\nsudo pacman -S python-psycopg2  # PostgreSQL interface",
+            "title": "\u5b89\u88c5"
+        },
+        {
+            "location": "/technology/django/#_2",
+            "text": "cd $project\npython manage.py migrate    # create table\npython manage.py runserver",
+            "title": "\u8fd0\u884c"
+        },
+        {
+            "location": "/technology/matplotlib/",
+            "text": "matplotlib\n\n\nPython \u7ed8\u56fe\u5e93\n\n\n\n\n\u5b89\u88c5\n\n\nsudo pip install matplotlib",
+            "title": "matplotlib"
+        },
+        {
+            "location": "/technology/matplotlib/#matplotlib",
+            "text": "Python \u7ed8\u56fe\u5e93",
+            "title": "matplotlib"
+        },
+        {
+            "location": "/technology/matplotlib/#_1",
+            "text": "sudo pip install matplotlib",
+            "title": "\u5b89\u88c5"
+        },
+        {
+            "location": "/technology/mkdocs/",
+            "text": "MkDocs\n\n\n\u9759\u6001\u7f51\u7ad9\u751f\u6210\n\n\n\n\n\u5b89\u88c5\n\n\nsudo pip install mkdocs    # Arch Linux\n\n\n\n\n\u5e38\u7528\u547d\u4ee4\n\n\nmkdocs serve    # \u672c\u673a\u8c03\u8bd5\nmkdocs gh-deploy --clean    # \u90e8\u7f72\u5230 github\n\n\n\n\n\u4e00\u4e2a\u4f8b\u5b50 \u2014 \n\u6211\u7684\u4e3b\u9875",
+            "title": "MkDocs"
+        },
+        {
+            "location": "/technology/mkdocs/#mkdocs",
+            "text": "\u9759\u6001\u7f51\u7ad9\u751f\u6210",
+            "title": "MkDocs"
+        },
+        {
+            "location": "/technology/mkdocs/#_1",
+            "text": "sudo pip install mkdocs    # Arch Linux",
+            "title": "\u5b89\u88c5"
+        },
+        {
+            "location": "/technology/mkdocs/#_2",
+            "text": "mkdocs serve    # \u672c\u673a\u8c03\u8bd5\nmkdocs gh-deploy --clean    # \u90e8\u7f72\u5230 github",
+            "title": "\u5e38\u7528\u547d\u4ee4"
+        },
+        {
+            "location": "/technology/mkdocs/#-",
+            "text": "",
+            "title": "\u4e00\u4e2a\u4f8b\u5b50 --- \u6211\u7684\u4e3b\u9875"
+        },
+        {
+            "location": "/technology/shell/",
+            "text": "Shell\n\n\n\u811a\u672c\n\n\n\n\n\u8bed\u6cd5\n\n\n\u53d8\u91cf\n\n\n\u5faa\u73af\u7ed3\u6784\n\n\n\u5b9e\u4f8b",
+            "title": "Shell"
+        },
+        {
+            "location": "/technology/shell/#shell",
+            "text": "\u811a\u672c",
+            "title": "Shell"
+        },
+        {
+            "location": "/technology/shell/#_1",
+            "text": "\u53d8\u91cf  \u5faa\u73af\u7ed3\u6784",
+            "title": "\u8bed\u6cd5"
+        },
+        {
+            "location": "/technology/shell/#_4",
+            "text": "",
+            "title": "\u5b9e\u4f8b"
+        },
+        {
+            "location": "/technology/linux/",
+            "text": "Linux\n\n\n\u7cfb\u7edf\n\n\n\n\n\u7cfb\u7edf\u5b89\u88c5\uff08Arch Linux\uff09\n\n\n\u914d\u7f6e\n\n\n\u7528\u6237\n\n\n# \u589e\u52a0\u7528\u6237\nuseradd test\npasswd test\nchsh -s /usr/bin/fish\n\n# ssh\nssh-keygen -t rsa\nssh b@B mkdir -p .ssh\ncat .ssh/id_rsa.pub | ssh b@B 'cat >> .ssh/authorized_keys'\nssh b@B\n\n# /etc/ssh/sshd_config\n# Port 22 -> Port xxxx  (xxxx > 1024)\nservice sshd restart\n\n\n\n\n\u5e38\u7528\u8f6f\u4ef6\n\n\nVIM\n\n\n# CentOS 7\nsudo yum install vim\n\n\n\n\nfish\n\n\n# CentOS 7\ncd /etc/yum.repos.d/\nwget http://download.opensuse.org/repositories/shells:fish:release:2/CentOS_7/shells:fish:release:2.repo\nyum install fish\n\n\n\n\ngit\n\n\nyum install git\n\n\n\n\nshadowsocks\n\n\nyum install python-setuptools && easy_install pip\npip install shadowsocks\n\nssserver -c config.json\n# \u540e\u53f0\nssserver -c config.json -d start\nssserver -c config.json -d stop\n\n\n\n\n\u5e38\u7528\u547d\u4ee4\n\n\n\u8fdc\u7a0b\u7ba1\u7406\n\n\n# \u590d\u5236\nscp foobar.txt your_username@remotehost:/some/remote/directory",
+            "title": "Linux"
+        },
+        {
+            "location": "/technology/linux/#linux",
+            "text": "\u7cfb\u7edf",
+            "title": "Linux"
+        },
+        {
+            "location": "/technology/linux/#arch-linux",
+            "text": "",
+            "title": "\u7cfb\u7edf\u5b89\u88c5\uff08Arch Linux\uff09"
+        },
+        {
+            "location": "/technology/linux/#_1",
+            "text": "\u7528\u6237  # \u589e\u52a0\u7528\u6237\nuseradd test\npasswd test\nchsh -s /usr/bin/fish\n\n# ssh\nssh-keygen -t rsa\nssh b@B mkdir -p .ssh\ncat .ssh/id_rsa.pub | ssh b@B 'cat >> .ssh/authorized_keys'\nssh b@B\n\n# /etc/ssh/sshd_config\n# Port 22 -> Port xxxx  (xxxx > 1024)\nservice sshd restart  \u5e38\u7528\u8f6f\u4ef6  VIM  # CentOS 7\nsudo yum install vim  fish  # CentOS 7\ncd /etc/yum.repos.d/\nwget http://download.opensuse.org/repositories/shells:fish:release:2/CentOS_7/shells:fish:release:2.repo\nyum install fish  git  yum install git  shadowsocks  yum install python-setuptools && easy_install pip\npip install shadowsocks\n\nssserver -c config.json\n# \u540e\u53f0\nssserver -c config.json -d start\nssserver -c config.json -d stop",
+            "title": "\u914d\u7f6e"
+        },
+        {
+            "location": "/technology/linux/#_4",
+            "text": "\u8fdc\u7a0b\u7ba1\u7406  # \u590d\u5236\nscp foobar.txt your_username@remotehost:/some/remote/directory",
+            "title": "\u5e38\u7528\u547d\u4ee4"
+        },
+        {
+            "location": "/technology/postgresql/",
+            "text": "PostgreSQL\n\n\n\u6570\u636e\u5e93\n\n\n\n\n\u5b89\u88c5\n\n\nsudo pacman -S postgresql\n\n\n\n\n\u914d\u7f6e\n\n\nsudo -i -u postgres\ninitdb --locale en_US.UTF-8 -E UTF8 -D '/var/lib/postgres/data'\nsystemctl start postgresql.service\nsystemctl enable postgresql.service\ncreateuser --interactive\ncreatedb test",
+            "title": "PostgreSQL"
+        },
+        {
+            "location": "/technology/postgresql/#postgresql",
+            "text": "\u6570\u636e\u5e93",
+            "title": "PostgreSQL"
+        },
+        {
+            "location": "/technology/postgresql/#_1",
+            "text": "sudo pacman -S postgresql",
+            "title": "\u5b89\u88c5"
+        },
+        {
+            "location": "/technology/postgresql/#_2",
+            "text": "sudo -i -u postgres\ninitdb --locale en_US.UTF-8 -E UTF8 -D '/var/lib/postgres/data'\nsystemctl start postgresql.service\nsystemctl enable postgresql.service\ncreateuser --interactive\ncreatedb test",
+            "title": "\u914d\u7f6e"
+        },
+        {
+            "location": "/technology/git/",
+            "text": "Git\n\n\n\u7248\u672c\u7ba1\u7406\u8f6f\u4ef6\n\n\n\n\n\u547d\u4ee4\n\n\ncheckout \u2014 \u8df3\u8f6c\u5230\u67d0\u4e00\u5206\u652f\n\n\ngit checkout master     # switch to master\ngit checkout master foo.txt    # merge master's foo.txt\n\n\n\n\npush \u2014 \u63a8\u9001\u5230\u8fdc\u7aef\n\n\ngit push origin master  # \u63a8\u9001\u5230\u8fdc\u7aef\ngit push origin master -f   # overwrite remote\n\n\n\n\nstash \u2014 \u9690\u85cf\u5f53\u524d\u66f4\u6539\n\n\ngit stash   # \u9690\u85cf\u5f53\u524d\u66f4\u6539\ngit stash pop # \u6062\u590d\u66f4\u6539\n\n\n\n\nreset \u2014 \u91cd\u7f6e\n\n\ngit reset --hard $commit_identification   # \u91cd\u7f6e\u5230 commit\n\n\n\n\nrevert \u2014 \u64a4\u9500\u63d0\u4ea4\n\n\ngit revert HEAD~3   # \u64a4\u9500\u5012\u6570\u7b2c\u56db\u6b21\u63d0\u4ea4\n\n\n\n\ntag \u2014 \u6dfb\u52a0\u6807\u7b7e\n\n\ngit tag -a v0.0.1 -m 'version 0.0.1'    # \u589e\u52a0\u6807\u7b7e\ngit tag     # \u663e\u793a\u6240\u6709\u6807\u7b7e\ngit show v0.0.1\ngit push origin --tags  # \u63a8\u9001\u5230\u670d\u52a1\u5668\n\n\n\n\n\u5de5\u4f5c\u6d41\n\n\n\u7248\u672c\u53f7\n\n\n\u6280\u5de7",
+            "title": "Git"
+        },
+        {
+            "location": "/technology/git/#git",
+            "text": "\u7248\u672c\u7ba1\u7406\u8f6f\u4ef6",
+            "title": "Git"
+        },
+        {
+            "location": "/technology/git/#_1",
+            "text": "checkout \u2014 \u8df3\u8f6c\u5230\u67d0\u4e00\u5206\u652f  git checkout master     # switch to master\ngit checkout master foo.txt    # merge master's foo.txt  push \u2014 \u63a8\u9001\u5230\u8fdc\u7aef  git push origin master  # \u63a8\u9001\u5230\u8fdc\u7aef\ngit push origin master -f   # overwrite remote  stash \u2014 \u9690\u85cf\u5f53\u524d\u66f4\u6539  git stash   # \u9690\u85cf\u5f53\u524d\u66f4\u6539\ngit stash pop # \u6062\u590d\u66f4\u6539  reset \u2014 \u91cd\u7f6e  git reset --hard $commit_identification   # \u91cd\u7f6e\u5230 commit  revert \u2014 \u64a4\u9500\u63d0\u4ea4  git revert HEAD~3   # \u64a4\u9500\u5012\u6570\u7b2c\u56db\u6b21\u63d0\u4ea4  tag \u2014 \u6dfb\u52a0\u6807\u7b7e  git tag -a v0.0.1 -m 'version 0.0.1'    # \u589e\u52a0\u6807\u7b7e\ngit tag     # \u663e\u793a\u6240\u6709\u6807\u7b7e\ngit show v0.0.1\ngit push origin --tags  # \u63a8\u9001\u5230\u670d\u52a1\u5668",
+            "title": "\u547d\u4ee4"
+        },
+        {
+            "location": "/technology/git/#_2",
+            "text": "",
+            "title": "\u5de5\u4f5c\u6d41"
+        },
+        {
+            "location": "/technology/git/#_3",
+            "text": "",
+            "title": "\u7248\u672c\u53f7"
+        },
+        {
+            "location": "/technology/git/#_4",
+            "text": "",
+            "title": "\u6280\u5de7"
+        },
+        {
+            "location": "/humanity/\u897f\u65b9\u4f26\u7406\u5b66\u53f2/",
+            "text": "\u897f\u65b9\u4f26\u7406\u5b66\u53f2\n\n\n\u4e07\u4fca\u4eba\u8001\u5e08\n\n\n\n\n\u8bfb\u4e66\u7b14\u8bb0\n\n\n\u9053\u5fb7\u539f\u5219\u7814\u7a76\n1\n\n\n\u8bd1\u8005\u5bfc\u8a00\n\n\n\u300a\u9053\u5fb7\u539f\u5219\u7814\u7a76\u300b\u7684\u601d\u60f3\u7406\u8def\n\n\n\n\n\u76f4\u63a5\u4ee4\u81ea\u5df1\u6109\u5feb\u7684\u54c1\u8d28\uff08\u7b2c\u4e03\u7ae0\uff09\u53c8\u5206\u4e3a\u5d07\u9ad8\u7684\u6fc0\u60c5\u7684\u5bf9\u8c61\u548c\u6e29\u67d4\u7684\u6fc0\u60c5\u7684\u5bf9\u8c61\uff0c\u524d\u8005\n\u6709\u5fc3\u7075\u7684\u4f1f\u5927\u3001\u9053\u5fb7\u7684\u9ad8\u8d35\u3001\u9a84\u50b2\u548c\u6c14\u6982\u3001\u5d07\u9ad8\u3001\u52c7\u6562\u3001\u54f2\u5b66\u7684\u5b81\u9759\u548c\u6de1\u6cca\u7b49\u7b49\uff0c\u540e\u8005\u6709\n\u4ec1\u7231\u3001\u53cb\u8c0a\u3001\u7231\u60c5\u3001\u9274\u8d4f\u529b\u7b49\u7b49\uff1b\u76f4\u63a5\u4ee4\u4ed6\u4eba\u6109\u5feb\u7684\u54c1\u8d28\uff08\u7b2c\u516b\u7ae0\uff09\u5219\u4e3b\u8981\u6709\u826f\u597d\u4f5c\u98ce\u3001\n\u793c\u8c8c\u3001\u673a\u8da3\u3001\u96c4\u8fa9\u3001\u5065\u5168\u7406\u667a\u3001\u8c26\u900a\u3001\u98ce\u5ea6\u7b49\u7b49\u3002\n\n\n\n\n\n\n\n\n\n\n\n\n\u4f11\u59c6, and \u6653\u5e73. \u9053\u5fb7\u539f\u5219\u7814\u7a76. \u5546\u52a1\u5370\u4e66\u9986, 2001.\u00a0\n\u21a9",
+            "title": "\u897f\u65b9\u4f26\u7406\u5b66\u53f2"
+        },
+        {
+            "location": "/humanity/\u897f\u65b9\u4f26\u7406\u5b66\u53f2/#_1",
+            "text": "\u4e07\u4fca\u4eba\u8001\u5e08",
+            "title": "\u897f\u65b9\u4f26\u7406\u5b66\u53f2"
+        },
+        {
+            "location": "/humanity/\u897f\u65b9\u4f26\u7406\u5b66\u53f2/#_2",
+            "text": "\u9053\u5fb7\u539f\u5219\u7814\u7a76 1  \u8bd1\u8005\u5bfc\u8a00  \u300a\u9053\u5fb7\u539f\u5219\u7814\u7a76\u300b\u7684\u601d\u60f3\u7406\u8def   \u76f4\u63a5\u4ee4\u81ea\u5df1\u6109\u5feb\u7684\u54c1\u8d28\uff08\u7b2c\u4e03\u7ae0\uff09\u53c8\u5206\u4e3a\u5d07\u9ad8\u7684\u6fc0\u60c5\u7684\u5bf9\u8c61\u548c\u6e29\u67d4\u7684\u6fc0\u60c5\u7684\u5bf9\u8c61\uff0c\u524d\u8005\n\u6709\u5fc3\u7075\u7684\u4f1f\u5927\u3001\u9053\u5fb7\u7684\u9ad8\u8d35\u3001\u9a84\u50b2\u548c\u6c14\u6982\u3001\u5d07\u9ad8\u3001\u52c7\u6562\u3001\u54f2\u5b66\u7684\u5b81\u9759\u548c\u6de1\u6cca\u7b49\u7b49\uff0c\u540e\u8005\u6709\n\u4ec1\u7231\u3001\u53cb\u8c0a\u3001\u7231\u60c5\u3001\u9274\u8d4f\u529b\u7b49\u7b49\uff1b\u76f4\u63a5\u4ee4\u4ed6\u4eba\u6109\u5feb\u7684\u54c1\u8d28\uff08\u7b2c\u516b\u7ae0\uff09\u5219\u4e3b\u8981\u6709\u826f\u597d\u4f5c\u98ce\u3001\n\u793c\u8c8c\u3001\u673a\u8da3\u3001\u96c4\u8fa9\u3001\u5065\u5168\u7406\u667a\u3001\u8c26\u900a\u3001\u98ce\u5ea6\u7b49\u7b49\u3002       \u4f11\u59c6, and \u6653\u5e73. \u9053\u5fb7\u539f\u5219\u7814\u7a76. \u5546\u52a1\u5370\u4e66\u9986, 2001.\u00a0 \u21a9",
+            "title": "\u8bfb\u4e66\u7b14\u8bb0"
+        },
+        {
+            "location": "/about/",
+            "text": "\u5173\u4e8e\n\n\n\u6211\n\n\n\n\n\u7b80\u5386",
+            "title": "\u5173\u4e8e"
+        },
+        {
+            "location": "/about/#_1",
+            "text": "\u6211",
+            "title": "\u5173\u4e8e"
+        },
+        {
+            "location": "/about/#_2",
+            "text": "",
+            "title": "\u7b80\u5386"
+        }
+    ]
+}

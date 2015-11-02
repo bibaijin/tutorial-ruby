@@ -1,0 +1,32 @@
+div.col-md-9 h1:first-of-type {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 300;
+}
+
+div.col-md-9 h1 + p:first-of-type {
+    text-align: center;
+    font-size: 30px;
+}
+
+div.col-md-9 p.admonition-title:first-of-type {
+    text-align: left;
+}
+
+div.col-md-9 h1:first-of-type .headerlink {
+    display: none;
+}
+
+code.no-highlight {
+    color: black;
+}
+
+img[alt=drawing-full] {
+    width: 100%;
+}
+
+/* img[alt=drawing-center] { */
+    /* display: block; */
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+/* } */

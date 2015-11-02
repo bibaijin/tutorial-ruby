@@ -1,4 +1,4 @@
-# Python
+# Python 的内建特性
 
 语言
 
@@ -20,7 +20,7 @@
 print("Hello {}".format("world"))
 ```
 
-## 库
+## 官方库
 
 ### math
 

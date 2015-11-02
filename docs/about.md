@@ -4,6 +4,6 @@
 
 ---
 
-## [简历](ref/清华大学_电子工程_张凯.pdf)
+## 联系方式
 
-![drawing-full](img/cv.png)
+邮箱：<bibaijin@gmail.com>

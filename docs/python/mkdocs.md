@@ -13,6 +13,8 @@ sudo pip install mkdocs    # Arch Linux
 ## 常用命令
 
 ```shell
+mkdocs new my-project   # 新建工程
+cd my-project
 mkdocs serve    # 本机调试
 mkdocs gh-deploy --clean    # 部署到 github
 ```

@@ -28,5 +28,6 @@ markdown_extensions:
     - smarty
     - sane_lists
     - footnotes
+    - tables
 
 copyright: Copyright &copy; 2015 <a href="mailto:bibaijin@gmail.com">金比白</a>.

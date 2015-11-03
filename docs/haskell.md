@@ -4,9 +4,7 @@
 
 ---
 
-## 配置
-
-### 安装（Arch Linux）
+## 安装（Arch Linux）
 
 ```bash
 sudo pacman -Syu # 更新系统
@@ -17,7 +15,21 @@ sudo pacman -S happy # Parser generator
 sudo pacman -S alex # Lexical analyzer generator
 ```
 
-### 编辑器支持（Vim）
+## 配置
+
+### spacemacs
+
+```sh
+cabal install hlint # consume a lot of resources
+cabal install stylish-haskell
+cabal install hasktags
+cabal install ghc-mod
+cabal install structured-haskell-mode
+cabal install hindent
+```
+
+### Vim
+
 ```text
 Plugin 'lukerandall/haskellmode-vim'
 ```

@@ -8,8 +8,8 @@
         <meta name="author" content="bibaijin">
         <link rel="canonical" href="https://bibaijin.github.io/tutorial/haskell/">
         <link rel="shortcut icon" href="../img/favicon.ico">
-
-	<title>Haskell - 文 档</title>
+        
+        <title>Haskell - 文 档</title>
 
         <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../css/font-awesome-4.0.3.css" rel="stylesheet">
@@ -31,7 +31,7 @@
 
     <body>
 
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
 
         <!-- Collapsed navigation -->
@@ -189,6 +189,8 @@
     
         <li class="main active"><a href="#haskell">Haskell</a></li>
         
+            <li><a href="#arch-linux">安装（Arch Linux）</a></li>
+        
             <li><a href="#_1">配置</a></li>
         
             <li><a href="#_2">读书笔记</a></li>
@@ -201,8 +203,7 @@
 <h1 id="haskell">Haskell</h1>
 <p>函数式编程</p>
 <hr />
-<h2 id="_1">配置</h2>
-<h3 id="arch-linux">安装（Arch Linux）</h3>
+<h2 id="arch-linux">安装（Arch Linux）</h2>
 <pre><code class="bash">sudo pacman -Syu # 更新系统
 sudo pacman -S ghc # 编译器
 sudo pacman -S cabal-install # 包管理
@@ -211,7 +212,17 @@ sudo pacman -S happy # Parser generator
 sudo pacman -S alex # Lexical analyzer generator
 </code></pre>
 
-<h3 id="vim">编辑器支持（Vim）</h3>
+<h2 id="_1">配置</h2>
+<h3 id="spacemacs">spacemacs</h3>
+<pre><code class="sh">cabal install hlint # consume a lot of resources
+cabal install stylish-haskell
+cabal install hasktags
+cabal install ghc-mod
+cabal install structured-haskell-mode
+cabal install hindent
+</code></pre>
+
+<h3 id="vim">Vim</h3>
 <pre><code class="text">Plugin 'lukerandall/haskellmode-vim'
 </code></pre>
 
@@ -239,8 +250,8 @@ sudo pacman -S alex # Lexical analyzer generator
                     </a>
                 </div>
             </noscript>
-            <p></p>
             <!-- End of StatCounter Code for Default Guide -->
+            <p></p>
             
                 <p>Copyright &copy; 2015 <a href="mailto:bibaijin@gmail.com">金比白</a>. Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
             

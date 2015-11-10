@@ -8,8 +8,8 @@
         <meta name="author" content="bibaijin">
         <link rel="canonical" href="https://bibaijin.github.io/tutorial/linux/os/">
         <link rel="shortcut icon" href="../../img/favicon.ico">
-
-	<title>OS - 文 档</title>
+        
+        <title>OS - 文 档</title>
 
         <link href="../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../css/font-awesome-4.0.3.css" rel="stylesheet">
@@ -31,7 +31,7 @@
 
     <body>
 
-        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
     <div class="container">
 
         <!-- Collapsed navigation -->
@@ -228,11 +228,21 @@ service sshd restart
 sudo yum install vim
 </code></pre>
 
+<h4 id="zsh">zsh</h4>
+<pre><code># antigen-hs
+cabal install base text directory filepath process
+git clone https://github.com/Tarrasch/antigen-hs.git ~/.zsh/antigen-hs/
+antigen-hs-compile  # after update MyAntigen.hs
+</code></pre>
+
 <h4 id="fish">fish</h4>
 <pre><code class="sh"># CentOS 7
 cd /etc/yum.repos.d/
 wget http://download.opensuse.org/repositories/shells:fish:release:2/CentOS_7/shells:fish:release:2.repo
 yum install fish
+
+# Arch Linux
+pacin autojump
 </code></pre>
 
 <h4 id="git">git</h4>
@@ -253,6 +263,10 @@ ssserver -c config.json -d stop
 <h3 id="_5">远程管理</h3>
 <pre><code class="sh"># 复制
 scp foobar.txt your_username@remotehost:/some/remote/directory
+</code></pre>
+
+<h3 id="_6">字数统计</h3>
+<pre><code class="sh">texcount FILE
 </code></pre></div>
             
         </div>
@@ -274,8 +288,8 @@ scp foobar.txt your_username@remotehost:/some/remote/directory
                     </a>
                 </div>
             </noscript>
-            <p></p>
             <!-- End of StatCounter Code for Default Guide -->
+            <p></p>
             
                 <p>Copyright &copy; 2015 <a href="mailto:bibaijin@gmail.com">金比白</a>. Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
             

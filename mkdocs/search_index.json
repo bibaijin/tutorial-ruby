@@ -17,7 +17,7 @@
         },
         {
             "location": "/haskell/",
-            "text": "Haskell\n\n\n\u51fd\u6570\u5f0f\u7f16\u7a0b\n\n\n\n\n\u914d\u7f6e\n\n\n\u5b89\u88c5\uff08Arch Linux\uff09\n\n\nsudo pacman -Syu # \u66f4\u65b0\u7cfb\u7edf\nsudo pacman -S ghc # \u7f16\u8bd1\u5668\nsudo pacman -S cabal-install # \u5305\u7ba1\u7406\nsudo pacman -S haddock # \u6587\u6863\u751f\u6210\nsudo pacman -S happy # Parser generator\nsudo pacman -S alex # Lexical analyzer generator\n\n\n\n\n\u7f16\u8f91\u5668\u652f\u6301\uff08Vim\uff09\n\n\nPlugin 'lukerandall/haskellmode-vim'\n\n\n\n\n\u8bfb\u4e66\u7b14\u8bb0\n\n\nLearn You a Haskell for Great Good!\n\n\nReal World Haskell\n\n\nYesod Web Framework Book",
+            "text": "Haskell\n\n\n\u51fd\u6570\u5f0f\u7f16\u7a0b\n\n\n\n\n\u5b89\u88c5\uff08Arch Linux\uff09\n\n\nsudo pacman -Syu # \u66f4\u65b0\u7cfb\u7edf\nsudo pacman -S ghc # \u7f16\u8bd1\u5668\nsudo pacman -S cabal-install # \u5305\u7ba1\u7406\nsudo pacman -S haddock # \u6587\u6863\u751f\u6210\nsudo pacman -S happy # Parser generator\nsudo pacman -S alex # Lexical analyzer generator\n\n\n\n\n\u914d\u7f6e\n\n\nspacemacs\n\n\ncabal install hlint # consume a lot of resources\ncabal install stylish-haskell\ncabal install hasktags\ncabal install ghc-mod\ncabal install structured-haskell-mode\ncabal install hindent\n\n\n\n\nVim\n\n\nPlugin 'lukerandall/haskellmode-vim'\n\n\n\n\n\u8bfb\u4e66\u7b14\u8bb0\n\n\nLearn You a Haskell for Great Good!\n\n\nReal World Haskell\n\n\nYesod Web Framework Book",
             "title": "Haskell"
         },
         {
@@ -26,8 +26,13 @@
             "title": "Haskell"
         },
         {
+            "location": "/haskell/#arch-linux",
+            "text": "sudo pacman -Syu # \u66f4\u65b0\u7cfb\u7edf\nsudo pacman -S ghc # \u7f16\u8bd1\u5668\nsudo pacman -S cabal-install # \u5305\u7ba1\u7406\nsudo pacman -S haddock # \u6587\u6863\u751f\u6210\nsudo pacman -S happy # Parser generator\nsudo pacman -S alex # Lexical analyzer generator",
+            "title": "\u5b89\u88c5\uff08Arch Linux\uff09"
+        },
+        {
             "location": "/haskell/#_1",
-            "text": "\u5b89\u88c5\uff08Arch Linux\uff09  sudo pacman -Syu # \u66f4\u65b0\u7cfb\u7edf\nsudo pacman -S ghc # \u7f16\u8bd1\u5668\nsudo pacman -S cabal-install # \u5305\u7ba1\u7406\nsudo pacman -S haddock # \u6587\u6863\u751f\u6210\nsudo pacman -S happy # Parser generator\nsudo pacman -S alex # Lexical analyzer generator  \u7f16\u8f91\u5668\u652f\u6301\uff08Vim\uff09  Plugin 'lukerandall/haskellmode-vim'",
+            "text": "spacemacs  cabal install hlint # consume a lot of resources\ncabal install stylish-haskell\ncabal install hasktags\ncabal install ghc-mod\ncabal install structured-haskell-mode\ncabal install hindent  Vim  Plugin 'lukerandall/haskellmode-vim'",
             "title": "\u914d\u7f6e"
         },
         {
@@ -37,7 +42,7 @@
         },
         {
             "location": "/LaTeX/",
-            "text": "LaTeX\n\n\n\u6392\u7248\u8f6f\u4ef6\n\n\n\n\n\u914d\u7f6e\n\n\n\u5b89\u88c5\uff08Arch Linux\uff09\n\n\nsudo pacman -S texlive-langchinese # \u6838\u5fc3\u5305\n\n\n\n\n\u4e2d\u6587\u73af\u5883\n\n\n\u5b8f\u5305\n\n\nmoderncv\n\n\nmoderncvtimeline",
+            "text": "LaTeX\n\n\n\u6392\u7248\u8f6f\u4ef6\n\n\n\n\n\u914d\u7f6e\n\n\n\u5b89\u88c5\uff08Arch Linux\uff09\n\n\nsudo pacman -S texlive-langchinese # \u6838\u5fc3\u5305\nsudo pacman -S texlive-science # packages such as physics\n\n\n\n\n\u4e2d\u6587\u73af\u5883\n\n\n\u5b8f\u5305\n\n\nmoderncv\n\n\nmoderncvtimeline\n\n\n\u6570\u7406\u7b26\u53f7\u8868\n\n\n\n\n\n\n\n\n\u7b26\u53f7\n\n\n\u4ee3\u7801\n\n\n\u7b26\u53f7\n\n\n\u4ee3\u7801\n\n\n\u7b26\u53f7\n\n\n\u4ee3\u7801\n\n\n\n\n\n\n\n\n\n\n\\(\\int\\)\n\n\n\\int\n\n\n\\(\\frac{1}{2}\\)\n\n\n\\frac{1}{2}\n\n\n\n\n\n\n\n\n\n\n\\(\\varepsilon\\)\n\n\n\\varepsilon\n\n\n\\(\\epsilon\\)\n\n\n\\epsilon\n\n\n\n\n\n\n\n\n\n\n\\(\\varphi\\)\n\n\n\\varphi\n\n\n\\(\\phi\\)\n\n\n\\phi\n\n\n\\(\\Phi\\)\n\n\n\\Phi",
             "title": "LaTeX"
         },
         {
@@ -47,8 +52,13 @@
         },
         {
             "location": "/LaTeX/#_1",
-            "text": "\u5b89\u88c5\uff08Arch Linux\uff09  sudo pacman -S texlive-langchinese # \u6838\u5fc3\u5305  \u4e2d\u6587\u73af\u5883  \u5b8f\u5305  moderncv  moderncvtimeline",
+            "text": "\u5b89\u88c5\uff08Arch Linux\uff09  sudo pacman -S texlive-langchinese # \u6838\u5fc3\u5305\nsudo pacman -S texlive-science # packages such as physics  \u4e2d\u6587\u73af\u5883  \u5b8f\u5305  moderncv  moderncvtimeline",
             "title": "\u914d\u7f6e"
+        },
+        {
+            "location": "/LaTeX/#_4",
+            "text": "\u7b26\u53f7  \u4ee3\u7801  \u7b26\u53f7  \u4ee3\u7801  \u7b26\u53f7  \u4ee3\u7801      \\(\\int\\)  \\int  \\(\\frac{1}{2}\\)  \\frac{1}{2}      \\(\\varepsilon\\)  \\varepsilon  \\(\\epsilon\\)  \\epsilon      \\(\\varphi\\)  \\varphi  \\(\\phi\\)  \\phi  \\(\\Phi\\)  \\Phi",
+            "title": "\u6570\u7406\u7b26\u53f7\u8868"
         },
         {
             "location": "/python/built-in/",
@@ -142,7 +152,7 @@
         },
         {
             "location": "/linux/os/",
-            "text": "Linux\n\n\n\u7cfb\u7edf\n\n\n\n\n\u7cfb\u7edf\u5b89\u88c5\uff08Arch Linux\uff09\n\n\n\u914d\u7f6e\n\n\n\u7528\u6237\n\n\n# \u589e\u52a0\u7528\u6237\nuseradd test\npasswd test\nchsh -s /usr/bin/fish\n\n# ssh\nssh-keygen -t rsa\nssh b@B mkdir -p .ssh\ncat .ssh/id_rsa.pub | ssh b@B 'cat >> .ssh/authorized_keys'\nssh b@B\n\n# /etc/ssh/sshd_config\n# Port 22 -> Port xxxx  (xxxx > 1024)\nservice sshd restart\n\n\n\n\n\u5e38\u7528\u8f6f\u4ef6\n\n\nVIM\n\n\n# CentOS 7\nsudo yum install vim\n\n\n\n\nfish\n\n\n# CentOS 7\ncd /etc/yum.repos.d/\nwget http://download.opensuse.org/repositories/shells:fish:release:2/CentOS_7/shells:fish:release:2.repo\nyum install fish\n\n\n\n\ngit\n\n\nyum install git\n\n\n\n\nshadowsocks\n\n\nyum install python-setuptools && easy_install pip\npip install shadowsocks\n\nssserver -c config.json\n# \u540e\u53f0\nssserver -c config.json -d start\nssserver -c config.json -d stop\n\n\n\n\n\u5e38\u7528\u547d\u4ee4\n\n\n\u8fdc\u7a0b\u7ba1\u7406\n\n\n# \u590d\u5236\nscp foobar.txt your_username@remotehost:/some/remote/directory",
+            "text": "Linux\n\n\n\u7cfb\u7edf\n\n\n\n\n\u7cfb\u7edf\u5b89\u88c5\uff08Arch Linux\uff09\n\n\n\u914d\u7f6e\n\n\n\u7528\u6237\n\n\n# \u589e\u52a0\u7528\u6237\nuseradd test\npasswd test\nchsh -s /usr/bin/fish\n\n# ssh\nssh-keygen -t rsa\nssh b@B mkdir -p .ssh\ncat .ssh/id_rsa.pub | ssh b@B 'cat >> .ssh/authorized_keys'\nssh b@B\n\n# /etc/ssh/sshd_config\n# Port 22 -> Port xxxx  (xxxx > 1024)\nservice sshd restart\n\n\n\n\n\u5e38\u7528\u8f6f\u4ef6\n\n\nVIM\n\n\n# CentOS 7\nsudo yum install vim\n\n\n\n\nzsh\n\n\n# antigen-hs\ncabal install base text directory filepath process\ngit clone https://github.com/Tarrasch/antigen-hs.git ~/.zsh/antigen-hs/\nantigen-hs-compile  # after update MyAntigen.hs\n\n\n\n\nfish\n\n\n# CentOS 7\ncd /etc/yum.repos.d/\nwget http://download.opensuse.org/repositories/shells:fish:release:2/CentOS_7/shells:fish:release:2.repo\nyum install fish\n\n# Arch Linux\npacin autojump\n\n\n\n\ngit\n\n\nyum install git\n\n\n\n\nshadowsocks\n\n\nyum install python-setuptools && easy_install pip\npip install shadowsocks\n\nssserver -c config.json\n# \u540e\u53f0\nssserver -c config.json -d start\nssserver -c config.json -d stop\n\n\n\n\n\u5e38\u7528\u547d\u4ee4\n\n\n\u8fdc\u7a0b\u7ba1\u7406\n\n\n# \u590d\u5236\nscp foobar.txt your_username@remotehost:/some/remote/directory\n\n\n\n\n\u5b57\u6570\u7edf\u8ba1\n\n\ntexcount FILE",
             "title": "OS"
         },
         {
@@ -157,12 +167,12 @@
         },
         {
             "location": "/linux/os/#_1",
-            "text": "\u7528\u6237  # \u589e\u52a0\u7528\u6237\nuseradd test\npasswd test\nchsh -s /usr/bin/fish\n\n# ssh\nssh-keygen -t rsa\nssh b@B mkdir -p .ssh\ncat .ssh/id_rsa.pub | ssh b@B 'cat >> .ssh/authorized_keys'\nssh b@B\n\n# /etc/ssh/sshd_config\n# Port 22 -> Port xxxx  (xxxx > 1024)\nservice sshd restart  \u5e38\u7528\u8f6f\u4ef6  VIM  # CentOS 7\nsudo yum install vim  fish  # CentOS 7\ncd /etc/yum.repos.d/\nwget http://download.opensuse.org/repositories/shells:fish:release:2/CentOS_7/shells:fish:release:2.repo\nyum install fish  git  yum install git  shadowsocks  yum install python-setuptools && easy_install pip\npip install shadowsocks\n\nssserver -c config.json\n# \u540e\u53f0\nssserver -c config.json -d start\nssserver -c config.json -d stop",
+            "text": "\u7528\u6237  # \u589e\u52a0\u7528\u6237\nuseradd test\npasswd test\nchsh -s /usr/bin/fish\n\n# ssh\nssh-keygen -t rsa\nssh b@B mkdir -p .ssh\ncat .ssh/id_rsa.pub | ssh b@B 'cat >> .ssh/authorized_keys'\nssh b@B\n\n# /etc/ssh/sshd_config\n# Port 22 -> Port xxxx  (xxxx > 1024)\nservice sshd restart  \u5e38\u7528\u8f6f\u4ef6  VIM  # CentOS 7\nsudo yum install vim  zsh  # antigen-hs\ncabal install base text directory filepath process\ngit clone https://github.com/Tarrasch/antigen-hs.git ~/.zsh/antigen-hs/\nantigen-hs-compile  # after update MyAntigen.hs  fish  # CentOS 7\ncd /etc/yum.repos.d/\nwget http://download.opensuse.org/repositories/shells:fish:release:2/CentOS_7/shells:fish:release:2.repo\nyum install fish\n\n# Arch Linux\npacin autojump  git  yum install git  shadowsocks  yum install python-setuptools && easy_install pip\npip install shadowsocks\n\nssserver -c config.json\n# \u540e\u53f0\nssserver -c config.json -d start\nssserver -c config.json -d stop",
             "title": "\u914d\u7f6e"
         },
         {
             "location": "/linux/os/#_4",
-            "text": "\u8fdc\u7a0b\u7ba1\u7406  # \u590d\u5236\nscp foobar.txt your_username@remotehost:/some/remote/directory",
+            "text": "\u8fdc\u7a0b\u7ba1\u7406  # \u590d\u5236\nscp foobar.txt your_username@remotehost:/some/remote/directory  \u5b57\u6570\u7edf\u8ba1  texcount FILE",
             "title": "\u5e38\u7528\u547d\u4ee4"
         },
         {

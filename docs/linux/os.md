@@ -36,6 +36,15 @@ service sshd restart
 sudo yum install vim
 ```
 
+#### zsh
+
+```
+# antigen-hs
+cabal install base text directory filepath process
+git clone https://github.com/Tarrasch/antigen-hs.git ~/.zsh/antigen-hs/
+antigen-hs-compile  # after update MyAntigen.hs
+```
+
 #### fish
 
 ```sh
@@ -43,6 +52,9 @@ sudo yum install vim
 cd /etc/yum.repos.d/
 wget http://download.opensuse.org/repositories/shells:fish:release:2/CentOS_7/shells:fish:release:2.repo
 yum install fish
+
+# Arch Linux
+pacin autojump
 ```
 
 #### git
@@ -70,4 +82,10 @@ ssserver -c config.json -d stop
 ```sh
 # 复制
 scp foobar.txt your_username@remotehost:/some/remote/directory
+```
+
+### 字数统计
+
+```sh
+texcount FILE
 ```

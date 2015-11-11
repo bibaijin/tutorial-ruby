@@ -9,7 +9,7 @@ theme: mkdocs
 theme_dir: 'custom_theme'
 
 pages:
-- 主页: index.md
+- 首页: index.md
 - Haskell: haskell.md
 - LaTeX: LaTeX.md
 - Python:
@@ -17,10 +17,13 @@ pages:
     - Django: python/django.md
     - Matplotlib: python/matplotlib.md
     - MkDocs: python/mkdocs.md
+- Ruby:
+    - Built-in: ruby/built-in.md
+    - Jekyll: ruby/jekyll.md
+- PostgreSQL: postgresql.md
 - Linux:
     - OS: linux/os.md
     - Shell: linux/shell.md
-- PostgreSQL: postgresql.md
 - Git: git.md
 - 关于: about.md
 
